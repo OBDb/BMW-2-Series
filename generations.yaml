@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (F22/F23/F87 M2)"
+    start_year: 2013
+    end_year: 2021
+    description: "The original BMW 2 Series replaced the 1 Series Coupe and Convertible, offered in two-door coupe (F22) and convertible (F23) body styles. Built on a rear-wheel drive platform, it featured longitudinally-mounted engines ranging from a 1.5L three-cylinder to a 3.0L turbocharged straight-six in the M240i producing 340 HP. The high-performance M2 (F87) delivered up to 410 HP in Competition form. The first-generation 2 Series was praised for its engaging handling, compact dimensions, and performance, continuing BMW's tradition of sporty compact coupes."
+
+  - name: "First Generation Active/Gran Tourer (F45/F46)"
+    start_year: 2014
+    end_year: 2021
+    description: "BMW introduced the 2 Series Active Tourer (F45) and Gran Tourer (F46) as compact MPVs, representing the brand's first front-wheel drive models. These practical, family-oriented vehicles featured versatile interiors with sliding rear seats and optional seven-seat configurations in the Gran Tourer. Engine options included three and four-cylinder petrol and diesel units, with some variants offering all-wheel drive."
+
+  - name: "Second Generation Coupe (G42)"
+    start_year: 2021
+    end_year: null
+    description: "The second-generation 2 Series Coupe maintains its rear-wheel drive architecture, distinguishing it from the front-wheel drive 2 Series Gran Coupe. Slightly larger than its predecessor, it features more aggressive styling with a traditional BMW kidney grille (unlike the controversial larger grilles on some other models). Engine options include a 2.0L four-cylinder in the 220i/230i and a 3.0L turbocharged straight-six in the M240i xDrive producing 374 HP. The new generation offers improved dynamics, more technology including the latest iDrive system, and enhanced safety features. A high-performance M2 variant followed, continuing the model's focus on driver engagement."
+
+  - name: "Second Generation Active Tourer (U06)"
+    start_year: 2022
+    end_year: null
+    description: "The second-generation 2 Series Active Tourer features a completely redesigned exterior and interior, adopting BMW's latest design language including a larger kidney grille and slim headlights. Built on an updated front-wheel drive platform, it offers gasoline, diesel, and plug-in hybrid powertrains with improved efficiency and performance. The interior is thoroughly modernized with a curved display combining digital instruments and infotainment, fewer physical buttons, and new technology features. The Gran Tourer seven-seat variant was discontinued for this generation."
