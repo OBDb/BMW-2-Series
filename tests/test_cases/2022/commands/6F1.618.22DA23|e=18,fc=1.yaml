@@ -1,8 +1,8 @@
 command_id: 6F1.618.22DA23|e=18,fc=1
 test_cases:
 - expected_values:
-    BMW_ODO: 45208
-    BMW_ODO_LOWRES: 45208
+    2SERIES_ODO: 45208.0
+    2SERIES_ODO_LOWRES: 45208.0
   response: |-
     618F1100762DA230000
     618F1211613FFFFFFFF
