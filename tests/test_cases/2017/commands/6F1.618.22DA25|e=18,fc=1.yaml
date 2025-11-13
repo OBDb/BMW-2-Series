@@ -1,19 +1,23 @@
 command_id: 6F1.618.22DA25|e=18,fc=1
 test_cases:
 - expected_values:
-    BMW_EOT: 0
+    RPM: 671.5
+    2SERIES_EOT: 0
   response: |-
     612F104410C0A7E
     618F10562DA250094
 - expected_values:
-    BMW_EOT: 0
+    2SERIES_TQ_CNVRT_LOCKUP: OPEN
+    2SERIES_GEAR: 0
+    2SERIES_GEAR_SHIFT: PARK
+    2SERIES_EOT: 0
   response: |-
     618F10562DA220000
     618F10562DA2E0006
     618F10562DA25008D
 - expected_values:
-    BMW_EOT: 0
+    2SERIES_EOT: 0
   response: 618F10562DA250030
 - expected_values:
-    BMW_EOT: 0
+    2SERIES_EOT: 0
   response: 618F10562DA25009F
