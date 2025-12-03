@@ -1,0 +1,26 @@
+command_id: 7E0.01A6
+test_cases:
+- expected_values:
+    ODO: 154321.8
+  response: 7E80641A600178C32
+- expected_values:
+    ODO: 154323
+  response: 7E80641A600178C3E
+- expected_values:
+    ODO: 154324.2
+  response: 7E80641A600178C4A
+- expected_values:
+    ODO: 154325.2
+  response: 7E80641A600178C54
+- expected_values:
+    ODO: 154326.3
+  response: 7E80641A600178C5F
+- expected_values:
+    ODO: 154328.3
+  response: 7E80641A600178C73
+- expected_values:
+    ODO: 154329.4
+  response: 7E80641A600178C7E
+- expected_values:
+    ODO: 154330.6
+  response: 7E80641A600178C8A
