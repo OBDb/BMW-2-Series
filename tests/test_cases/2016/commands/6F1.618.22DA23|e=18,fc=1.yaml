@@ -26,6 +26,12 @@ test_cases:
     618F1100762DA230000
     618F1211E80FFFFFFFF
 - expected_values:
+    BMW_ODO: 63144
+    BMW_ODO_LOWRES: 63144
+  response: |-
+    618F1100762DA230000
+    618F1211ED5FFFFFFFF
+- expected_values:
     BMW_ODO: 98824
     BMW_ODO_LOWRES: 98824
   response: |-
