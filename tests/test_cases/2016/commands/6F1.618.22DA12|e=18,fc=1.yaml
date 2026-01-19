@@ -12,7 +12,7 @@ test_cases:
     618F10562DA12007F
 - expected_values:
     BMW_ATF_TEMP: 0
-  response: 618F10562DA120035
+  response: 618F10562DA120032
 - expected_values:
     BMW_ATF_TEMP: 0
   response: 618F10562DA120089
