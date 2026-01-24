@@ -19,7 +19,7 @@ generations:
 
   - name: "First Generation Gran Coupé (F44)"
     start_year: 2020
-    end_year: 2024
+    end_year: 2025
     description: "The BMW 2 Series Gran Coupé is a four-door sedan variant revealed in October 2019 for the 2020 model year. Built on the front-wheel drive UKL2 platform shared with the Active Tourer and Gran Tourer, it serves as BMW's smallest four-door sedan in most markets. The Gran Coupé combines the practical sedan format with a sporty coupe aesthetic, offering compact executive car credentials with multiple engine options."
 
   - name: "Second Generation Coupe (G42)"
