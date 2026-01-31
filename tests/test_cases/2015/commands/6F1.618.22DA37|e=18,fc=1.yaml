@@ -2,6 +2,15 @@ command_id: 6F1.618.22DA37|e=18,fc=1
 test_cases:
 - expected_values:
     BMW_TIME_D: 0
+    BMW_TIME_M: 193
+    BMW_TIME_S: 10
+  response: |-
+    22DA37
+    618F1100F62DA37000A
+    618F121C1440000140C
+    618F12200000687FFFF
+- expected_values:
+    BMW_TIME_D: 0
     BMW_TIME_M: 197
     BMW_TIME_S: 4
   response: |-
