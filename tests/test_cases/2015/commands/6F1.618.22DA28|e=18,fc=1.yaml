@@ -3,6 +3,12 @@ test_cases:
 - expected_values:
     BMW_BRAKE_SWITCH: 0
   response: |-
+    22DA28
+    618F1100762DA280000
+    618F1210000FFFFFFFF
+- expected_values:
+    BMW_BRAKE_SWITCH: 0
+  response: |-
     618F1100762DA280000
     618F1210000FFFFFFFF
 - expected_values:
