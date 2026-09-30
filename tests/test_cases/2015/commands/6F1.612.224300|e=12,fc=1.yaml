@@ -1,0 +1,32 @@
+command_id: 6F1.612.224300|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_ET: 191.22
+  response: 612F104624300B7
+- expected_values:
+    BMW_ET: 197.92
+  response: 612F104624300BC
+- expected_values:
+    BMW_ET: 199.26
+  response: 612F104624300BD
+- expected_values:
+    BMW_ET: 200.6
+  response: 612F104624300BE
+- expected_values:
+    BMW_ET: 201.94
+  response: 612F104624300BF
+- expected_values:
+    BMW_ET: 203.28
+  response: 612F104624300C0
+- expected_values:
+    BMW_ET: 204.62
+  response: 612F104624300C1
+- expected_values:
+    BMW_ET: 205.96
+  response: 612F104624300C2
+- expected_values:
+    BMW_ET: 209.98
+  response: 612F104624300C5
+- expected_values:
+    BMW_ET: 211.32
+  response: 612F104624300C6
