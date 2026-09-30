@@ -2,6 +2,14 @@ command_id: 6F1.618.22DA28|e=18,fc=1
 test_cases:
 - expected_values:
     BMW_BRAKE_SWITCH: 0
+  response: "618 F1 10 07 62 DA 28 00 00 \n618 F1 21 00 00 FF FF FF FF "
+- expected_values:
+    BMW_BRAKE_SWITCH: 0
   response: |-
     618F1100762DA280000
     618F1210000FFFFFFFF
+- expected_values:
+    BMW_BRAKE_SWITCH: 1
+  response: |-
+    618F1100762DA280001
+    618F1210001FFFFFFFF
