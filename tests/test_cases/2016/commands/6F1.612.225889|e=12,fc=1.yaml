@@ -1,0 +1,5 @@
+command_id: 6F1.612.225889|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_LAMBDA: 1.01686
+  response: 612F1056258891045
