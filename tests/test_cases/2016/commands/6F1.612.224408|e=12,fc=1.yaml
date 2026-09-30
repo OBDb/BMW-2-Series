@@ -1,8 +1,0 @@
-command_id: 6F1.612.224408|e=12,fc=1
-test_cases:
-- expected_values:
-    BMW_EOT_DME: -198.25
-  response: 612F10562440802ED
-- expected_values:
-    BMW_EOT_DME: -181.35
-  response: 612F1056244080396

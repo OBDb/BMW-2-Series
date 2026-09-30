@@ -1,5 +1,5 @@
 command_id: 6F1.612.2258BA|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_CRANK_TQ: 40.7
+    2SERIES_CRANK_TQ: 40.7
   response: 612F1056258BA0197

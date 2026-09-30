@@ -1,0 +1,32 @@
+command_id: 6F1.618.22DA25|e=18,fc=1,f=2012-
+test_cases:
+- expected_values:
+    2SERIES_EOT: 111
+  response: '618 F1 05 62 DA 25 00 9F '
+- expected_values:
+    2SERIES_EOT: 0
+  response: 618F10562DA250030
+- expected_values:
+    2SERIES_EOT: 54
+  response: 618F10562DA250066
+- expected_values:
+    2SERIES_EOT: 58
+  response: 618F10562DA25006A
+- expected_values:
+    2SERIES_EOT: 60
+  response: 618F10562DA25006C
+- expected_values:
+    2SERIES_EOT: 102
+  response: 618F10562DA250096
+- expected_values:
+    2SERIES_EOT: 108
+  response: 618F10562DA25009C
+- expected_values:
+    2SERIES_EOT: 109
+  response: 618F10562DA25009D
+- expected_values:
+    2SERIES_EOT: 111
+  response: 618F10562DA25009F
+- expected_values:
+    2SERIES_EOT: 112
+  response: 618F10562DA2500A0
