@@ -1,5 +1,8 @@
 command_id: 6F1.612.225813|e=12,fc=1
 test_cases:
 - expected_values:
+    BMW_LOAD: 12
+  response: 612F10462581310
+- expected_values:
     BMW_LOAD: 13.5
   response: 612F10462581312

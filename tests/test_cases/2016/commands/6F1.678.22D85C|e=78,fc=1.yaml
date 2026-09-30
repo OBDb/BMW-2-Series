@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     BMW_CABIN_T: 24
   response: 678F10462D85C18
+- expected_values:
+    BMW_CABIN_T: 25
+  response: 678F10462D85C19
