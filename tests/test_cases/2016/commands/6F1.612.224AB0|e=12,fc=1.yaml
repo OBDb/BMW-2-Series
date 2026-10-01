@@ -4,5 +4,5 @@ test_cases:
     2SERIES_BOOST_P_SET: 104.47266
   response: 612F105624AB06879
 - expected_values:
-    BMW_BOOST_P_SET: 104.63672
+    2SERIES_BOOST_P_SET: 104.63672
   response: 612F105624AB068A3

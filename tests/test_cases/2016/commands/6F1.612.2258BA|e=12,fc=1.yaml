@@ -4,5 +4,5 @@ test_cases:
     2SERIES_CRANK_TQ: 40.7
   response: 612F1056258BA0197
 - expected_values:
-    BMW_CRANK_TQ: 53.4
+    2SERIES_CRANK_TQ: 53.4
   response: 612F1056258BA0216
