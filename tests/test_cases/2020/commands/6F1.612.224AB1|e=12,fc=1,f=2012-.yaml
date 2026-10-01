@@ -1,0 +1,17 @@
+command_id: 6F1.612.224AB1|e=12,fc=1,f=2012-
+test_cases:
+- expected_values:
+    2SERIES_VSS2: 0
+  response: '612 F1 05 62 4A B1 00 00 '
+- expected_values:
+    2SERIES_VSS2: 35.41
+  response: '612 F1 05 62 4A B1 0D D5 '
+- expected_values:
+    2SERIES_VSS2: 0
+  response: 612F105624AB10000
+- expected_values:
+    2SERIES_VSS2: 40.92
+  response: 612F105624AB10FFC
+- expected_values:
+    2SERIES_VSS2: 138.89
+  response: 612F105624AB13641

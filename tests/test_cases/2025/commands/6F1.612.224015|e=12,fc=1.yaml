@@ -1,7 +1,7 @@
 command_id: 6F1.612.224015|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_IAT: 31
+    2SERIES_IAT: 31
   response: |-
     612F110A2624015001F
     612F121389240F7BF08
@@ -32,7 +32,7 @@ test_cases:
     612F12A5E0EBF020800
     612F12B51FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 31
+    2SERIES_IAT: 31
   response: |-
     612F110A2624015001F
     612F121389240F7BF08

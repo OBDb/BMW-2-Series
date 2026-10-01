@@ -1,13 +1,13 @@
 command_id: 6F1.612.22400B|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_LAMBDA_V2: 0.59
+    2SERIES_LAMBDA: 0.59
   response: |-
     612F1100F62400B00DE
     612F12100DE003B0092
     612F122F6EA0008FFFF
 - expected_values:
-    BMW_LAMBDA_V2: 0.59
+    2SERIES_LAMBDA: 0.59
   response: |-
     612F1100F62400B00E0
     612F12100E2003B0093

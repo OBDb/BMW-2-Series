@@ -1,7 +1,7 @@
 command_id: 6F1.612.224015|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E1FC20AEDF53
@@ -32,7 +32,7 @@ test_cases:
     612F12AD70A8A03B800
     612F12BB1FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E1FC20CCDF35
@@ -63,7 +63,7 @@ test_cases:
     612F12AC90A8903B700
     612F12BB0FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E26120E1DF20
@@ -94,7 +94,7 @@ test_cases:
     612F12A1C09E6037D00
     612F12BA6FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E26120E2DF1F
@@ -125,7 +125,7 @@ test_cases:
     612F12A1709E6037E00
     612F12BA6FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261210CDEF5
@@ -156,7 +156,7 @@ test_cases:
     612F12A4E09F3038200
     612F12BA7FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E2612122DEDF
@@ -187,7 +187,7 @@ test_cases:
     612F12AE709F9038400
     612F12BA7FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261212ADED7
@@ -218,7 +218,7 @@ test_cases:
     612F12ABE09FC038500
     612F12BA7FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E2612137DECA
@@ -249,7 +249,7 @@ test_cases:
     612F12A810A00038700
     612F12BA7FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261215FDEA3
@@ -280,7 +280,7 @@ test_cases:
     612F12AC70A0B038B00
     612F12BA8FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E2612163DE9E
@@ -311,7 +311,7 @@ test_cases:
     612F12AB20A0D038B00
     612F12BA8FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261218ADE77
@@ -342,7 +342,7 @@ test_cases:
     612F12A000A19038F00
     612F12BA9FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261218FDE72
@@ -373,7 +373,7 @@ test_cases:
     612F12AEC0A1A039000
     612F12BA9FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E2612198DE69
@@ -404,7 +404,7 @@ test_cases:
     612F12AC10A1D039100
     612F12BA9FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E26121C4DE3D
@@ -435,7 +435,7 @@ test_cases:
     612F12AEE0A2A039600
     612F12BAAFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E26121E4DE1E
@@ -466,7 +466,7 @@ test_cases:
     612F12AA80A34039900
     612F12BABFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E26121FCDE05
@@ -497,7 +497,7 @@ test_cases:
     612F12A430A7B03B200
     612F12BAFFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E2612297DD6A
@@ -528,7 +528,7 @@ test_cases:
     612F12AA40A6A03AC00
     612F12BAEFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121E261229CDD65
@@ -559,7 +559,7 @@ test_cases:
     612F12AB00A6B03AC00
     612F12BAEFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F0DE20F6DF0B
@@ -590,7 +590,7 @@ test_cases:
     612F12A2B09E5037D00
     612F12BA6FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F77100000000
@@ -621,7 +621,7 @@ test_cases:
     612F12A000000000000
     612F12B00FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F7712043DFBE
@@ -652,7 +652,7 @@ test_cases:
     612F12AF809DD035000
     612F12B9AFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F771207DDF84
@@ -683,7 +683,7 @@ test_cases:
     612F12AEA09EE035600
     612F12B9BFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F7712091DF70
@@ -714,7 +714,7 @@ test_cases:
     612F12A8F09F4035800
     612F12B9CFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 0
+    2SERIES_IAT: 0
   response: |-
     612F110A26240150000
     612F121F77120B4DF4D
@@ -745,7 +745,7 @@ test_cases:
     612F12AEC09FF035C00
     612F12B9CFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F121031A1FADE054
@@ -776,7 +776,7 @@ test_cases:
     612F12AD309D8036E00
     612F12B9BFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F121031A1FEFE012
@@ -807,7 +807,7 @@ test_cases:
     612F12A5509ED037600
     612F12B9DFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F121031A1FF2E00F
@@ -838,7 +838,7 @@ test_cases:
     612F12A6109EE037600
     612F12B9DFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F121031A2002DFFF
@@ -869,7 +869,7 @@ test_cases:
     612F12A9209F2037800
     612F12B9DFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F1211F3F2111DEF0
@@ -900,7 +900,7 @@ test_cases:
     612F12AD009F3033C00
     612F12B90FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12139652022DFDF
@@ -931,7 +931,7 @@ test_cases:
     612F12AB10BB103BA01
     612F12B18FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12139652073DF8E
@@ -962,7 +962,7 @@ test_cases:
     612F12A300B61036800
     612F12BFBFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12146522017DFEA
@@ -993,7 +993,7 @@ test_cases:
     612F12AFF0C4203ED01
     612F12B12FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12172681E3DE1C4
@@ -1024,7 +1024,7 @@ test_cases:
     612F12AC5101A04FF01
     612F12B17FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12172681E44E1BD
@@ -1055,7 +1055,7 @@ test_cases:
     612F12AE10FE0050001
     612F12B17FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 1
+    2SERIES_IAT: 1
   response: |-
     612F110A26240150001
     612F12176581C9CE365
@@ -1086,7 +1086,7 @@ test_cases:
     612F12A160FDB04DC01
     612F12B1FFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 2
+    2SERIES_IAT: 2
   response: |-
     612F110A26240150002
     612F121666D242FDBD1
@@ -1117,7 +1117,7 @@ test_cases:
     612F12AC40C2D03DA00
     612F12BC7FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 2
+    2SERIES_IAT: 2
   response: |-
     612F110A26240150002
     612F12190092245DDBC
@@ -1148,7 +1148,7 @@ test_cases:
     612F12A550CC503FE00
     612F12BC4FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 2
+    2SERIES_IAT: 2
   response: |-
     612F110A26240150002
     612F121CA6000000000
@@ -1179,7 +1179,7 @@ test_cases:
     612F12A000000000000
     612F12B00FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 3
+    2SERIES_IAT: 3
   response: |-
     612F110A26240150003
     612F1219FEC00000000
@@ -1210,7 +1210,7 @@ test_cases:
     612F12A000000000000
     612F12B00FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 4
+    2SERIES_IAT: 4
   response: |-
     612F110A26240150004
     612F1218DB5226CDD94
@@ -1241,7 +1241,7 @@ test_cases:
     612F12AC2106004AF00
     612F12BEBFFFFFFFFFF
 - expected_values:
-    BMW_IAT: 5
+    2SERIES_IAT: 5
   response: |-
     612F110A26240150005
     612F121216821ABDE55
@@ -1272,7 +1272,7 @@ test_cases:
     612F12A6C1250049100
     612F12BE4FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 5
+    2SERIES_IAT: 5
   response: |-
     612F110A26240150005
     612F1214010217FDE81
@@ -1303,7 +1303,7 @@ test_cases:
     612F12A801371049200
     612F12BF0FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 6
+    2SERIES_IAT: 6
   response: |-
     612F110A26240150006
     612F12102C7229CDD64
@@ -1334,7 +1334,7 @@ test_cases:
     612F12A95137B045E00
     612F12BE2FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 6
+    2SERIES_IAT: 6
   response: |-
     612F110A26240150006
     612F121657922ABDD55
@@ -1365,7 +1365,7 @@ test_cases:
     612F12A8D13B4043700
     612F12BD8FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 6
+    2SERIES_IAT: 6
   response: |-
     612F110A26240150006
     612F12189C122A2DD5E
@@ -1396,7 +1396,7 @@ test_cases:
     612F12A35134E041F00
     612F12BD3FFFFFFFFFF
 - expected_values:
-    BMW_IAT: 6
+    2SERIES_IAT: 6
   response: |-
     612F110A26240150006
     612F121A03522A0DD60
