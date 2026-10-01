@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     2SERIES_IAT_DME: 39
   response: 612F10462580F74
+- expected_values:
+    2SERIES_IAT_DME: 45.75
+  response: 612F10462580F7D
+- expected_values:
+    2SERIES_IAT_DME: 48
+  response: 612F10462580F80

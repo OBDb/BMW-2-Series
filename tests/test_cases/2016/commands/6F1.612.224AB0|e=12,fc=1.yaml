@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     2SERIES_BOOST_P_SET: 104.63672
   response: 612F105624AB068A3
+- expected_values:
+    2SERIES_BOOST_P_SET: 104.69922
+  response: 612F105624AB068B3
