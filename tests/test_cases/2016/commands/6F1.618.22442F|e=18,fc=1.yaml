@@ -1,8 +1,23 @@
 command_id: 6F1.618.22442F|e=18,fc=1
 test_cases:
 - expected_values:
+    2SERIES_ENG_TQ_6F1: 0
+  response: 618F10562442F0000
+- expected_values:
+    2SERIES_ENG_TQ_6F1: 11
+  response: 618F10562442F000B
+- expected_values:
     2SERIES_ENG_TQ_6F1: 22
   response: 618F10562442F0016
 - expected_values:
+    2SERIES_ENG_TQ_6F1: 28
+  response: 618F10562442F001C
+- expected_values:
+    2SERIES_ENG_TQ_6F1: 65493
+  response: 618F10562442FFFD5
+- expected_values:
     2SERIES_ENG_TQ_6F1: 65498
   response: 618F10562442FFFDA
+- expected_values:
+    2SERIES_ENG_TQ_6F1: 65499
+  response: 618F10562442FFFDB
