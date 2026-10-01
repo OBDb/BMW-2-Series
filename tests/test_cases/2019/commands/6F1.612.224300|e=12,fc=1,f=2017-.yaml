@@ -1,0 +1,11 @@
+command_id: 6F1.612.224300|e=12,fc=1,f=2017-
+test_cases:
+- expected_values:
+    2SERIES_ET: 78.15
+  response: 612F1056243000DB9
+- expected_values:
+    2SERIES_ET: 110.55
+  response: 612F1056243000EFD
+- expected_values:
+    2SERIES_ET: 110.95
+  response: 612F1056243000F01

@@ -1,0 +1,32 @@
+command_id: 6F1.612.224300|e=12,fc=1,f=-2016
+test_cases:
+- expected_values:
+    2SERIES_ET_8: 89.25
+  response: 612F104624300B7
+- expected_values:
+    2SERIES_ET_8: 93
+  response: 612F104624300BC
+- expected_values:
+    2SERIES_ET_8: 93.75
+  response: 612F104624300BD
+- expected_values:
+    2SERIES_ET_8: 94.5
+  response: 612F104624300BE
+- expected_values:
+    2SERIES_ET_8: 95.25
+  response: 612F104624300BF
+- expected_values:
+    2SERIES_ET_8: 96
+  response: 612F104624300C0
+- expected_values:
+    2SERIES_ET_8: 96.75
+  response: 612F104624300C1
+- expected_values:
+    2SERIES_ET_8: 97.5
+  response: 612F104624300C2
+- expected_values:
+    2SERIES_ET_8: 99.75
+  response: 612F104624300C5
+- expected_values:
+    2SERIES_ET_8: 100.5
+  response: 612F104624300C6

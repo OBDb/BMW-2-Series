@@ -1,0 +1,20 @@
+command_id: 6F1.660.22D107|e=60,fc=1,f=2012-
+test_cases:
+- expected_values:
+    2SERIES_VSS: 4.8
+  response: '660 F1 05 62 D1 07 00 30 '
+- expected_values:
+    2SERIES_VSS: 20.5
+  response: '660 F1 05 62 D1 07 00 CD '
+- expected_values:
+    2SERIES_VSS: 33.2
+  response: '660 F1 05 62 D1 07 01 4C '
+- expected_values:
+    2SERIES_VSS: 0
+  response: 660F10562D1070000
+- expected_values:
+    2SERIES_VSS: 50.7
+  response: 660F10562D10701FB
+- expected_values:
+    2SERIES_VSS: 134.1
+  response: 660F10562D107053D

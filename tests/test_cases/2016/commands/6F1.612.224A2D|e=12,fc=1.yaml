@@ -1,5 +1,5 @@
 command_id: 6F1.612.224A2D|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_MAP: 102.49219
+    2SERIES_MAP: 102.49219
   response: 612F105624A2D333F

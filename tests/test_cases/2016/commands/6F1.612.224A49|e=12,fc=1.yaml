@@ -1,8 +1,8 @@
 command_id: 6F1.612.224A49|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_IGN_TIMING_1: 5.3
+    2SERIES_IGN_TIMING_1: 5.3
   response: 612F105624A490035
 - expected_values:
-    BMW_IGN_TIMING_1: -0.9
+    2SERIES_IGN_TIMING_1: -0.9
   response: 612F105624A49FFF7
