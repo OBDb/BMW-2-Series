@@ -1,6 +1,9 @@
 command_id: 6F1.612.22582C|e=12,fc=1
 test_cases:
 - expected_values:
+    2SERIES_LAMBDA_2: 1.01025
+  response: 612F10562582C102A
+- expected_values:
     2SERIES_LAMBDA_2: 1.01685
   response: 612F10562582C1045
 - expected_values:
