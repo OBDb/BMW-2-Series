@@ -1,23 +1,23 @@
 command_id: 6F1.618.22DA12|e=18,fc=1,f=2012-
 test_cases:
 - expected_values:
-    2SERIES_ATF_TEMP: 0
+    2SERIES_ATF_TEMP: 71
   response: |-
     22DA12
     618F10562DA120077
 - expected_values:
-    2SERIES_ATF_TEMP: 0
+    2SERIES_ATF_TEMP: 76
   response: |-
     22DA12
     618F10562DA12007C
 - expected_values:
-    2SERIES_ATF_TEMP: 0
+    2SERIES_ATF_TEMP: 79
   response: |-
     22DA121
     618F10562DA12007F
 - expected_values:
-    2SERIES_ATF_TEMP: 0
+    2SERIES_ATF_TEMP: 2
   response: 618F10562DA120032
 - expected_values:
-    2SERIES_ATF_TEMP: 0
+    2SERIES_ATF_TEMP: 89
   response: 618F10562DA120089
