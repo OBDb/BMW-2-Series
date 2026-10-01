@@ -4,5 +4,8 @@ test_cases:
     2SERIES_IGN_TIMING_1: 5.3
   response: 612F105624A490035
 - expected_values:
+    2SERIES_IGN_TIMING_1: -17
+  response: 612F105624A49FF56
+- expected_values:
     2SERIES_IGN_TIMING_1: -0.9
   response: 612F105624A49FFF7
