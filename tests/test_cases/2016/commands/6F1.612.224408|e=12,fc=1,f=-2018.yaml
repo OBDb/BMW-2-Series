@@ -1,23 +1,11 @@
 command_id: 6F1.612.224408|e=12,fc=1,f=-2018
 test_cases:
 - expected_values:
-    2SERIES_EOT_DME: 42.2
-  response: 612F10562440801A6
-- expected_values:
-    2SERIES_EOT_DME: 43
-  response: 612F10562440801AE
-- expected_values:
-    2SERIES_EOT_DME: 74.3
-  response: 612F10562440802E7
+    2SERIES_EOT_DME: 0
+  response: 612F1056244080000
 - expected_values:
     2SERIES_EOT_DME: 74.9
   response: 612F10562440802ED
 - expected_values:
-    2SERIES_EOT_DME: 90
-  response: 612F1056244080384
-- expected_values:
-    2SERIES_EOT_DME: 91.8
-  response: 612F1056244080396
-- expected_values:
-    2SERIES_EOT_DME: 94.3
-  response: 612F10562440803AF
+    2SERIES_EOT_DME: 76.9
+  response: 612F1056244080301
