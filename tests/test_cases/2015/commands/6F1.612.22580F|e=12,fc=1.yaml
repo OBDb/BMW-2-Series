@@ -1,0 +1,8 @@
+command_id: 6F1.612.22580F|e=12,fc=1
+test_cases:
+- expected_values:
+    2SERIES_IAT_DME: 30
+  response: 612F10462580F68
+- expected_values:
+    2SERIES_IAT_DME: 51
+  response: 612F10462580F84
