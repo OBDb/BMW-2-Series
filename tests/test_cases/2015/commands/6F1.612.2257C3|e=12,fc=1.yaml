@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     2SERIES_OIL_TEMP_ALT: 122.3
   response: 612F1056257C304C7
+- expected_values:
+    2SERIES_OIL_TEMP_ALT: 122.5
+  response: 612F1056257C304C9

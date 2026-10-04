@@ -7,5 +7,8 @@ test_cases:
     2SERIES_BOOST_P: 102.44531
   response: 612F1056242053339
 - expected_values:
+    2SERIES_BOOST_P: 102.58594
+  response: 612F105624205334B
+- expected_values:
     2SERIES_BOOST_P: 102.86719
   response: 612F105624205336F
