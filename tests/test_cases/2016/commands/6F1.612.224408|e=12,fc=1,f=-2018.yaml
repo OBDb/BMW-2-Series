@@ -7,5 +7,5 @@ test_cases:
     2SERIES_EOT_DME: 51.1
   response: 612F10562440801FF
 - expected_values:
-    2SERIES_EOT_DME: 76.9
-  response: 612F1056244080301
+    2SERIES_EOT_DME: 103.1
+  response: 612F1056244080407
