@@ -9,5 +9,5 @@ test_cases:
     2SERIES_ET_8: 21.75
   response: 612F1046243005D
 - expected_values:
-    2SERIES_ET_8: 110.25
-  response: 612F104624300D3
+    2SERIES_ET_8: 111
+  response: 612F104624300D4
