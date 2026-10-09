@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     2SERIES_STEER_TQ: -0.10938
   response: 630F10662DB99FFF200
+- expected_values:
+    2SERIES_STEER_TQ: -0.03125
+  response: 630F10662DB99FFFC00
