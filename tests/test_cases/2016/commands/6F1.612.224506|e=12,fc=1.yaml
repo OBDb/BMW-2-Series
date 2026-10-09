@@ -13,4 +13,4 @@ test_cases:
   response: 612F10562450604FF
 - expected_values:
     2SERIES_OIL_TEMP: 26
-  response: 612F1056245061A26
+  response: 612F1056245061A1E
