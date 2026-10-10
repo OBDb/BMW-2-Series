@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     2SERIES_CRANK_TQ: 0
   response: 612F1056258BA0000
+- expected_values:
+    2SERIES_CRANK_TQ: 35.4
+  response: 612F1056258BA0162
+- expected_values:
+    2SERIES_CRANK_TQ: 47.8
+  response: 612F1056258BA01DE
+- expected_values:
+    2SERIES_CRANK_TQ: 49.5
+  response: 612F1056258BA01EF
+- expected_values:
+    2SERIES_CRANK_TQ: 53.9
+  response: 612F1056258BA021B
+- expected_values:
+    2SERIES_CRANK_TQ: 56.8
+  response: 612F1056258BA0238
+- expected_values:
+    2SERIES_CRANK_TQ: 72.5
+  response: 612F1056258BA02D5
+- expected_values:
+    2SERIES_CRANK_TQ: 89.4
+  response: 612F1056258BA037E
+- expected_values:
+    2SERIES_CRANK_TQ: 119.3
+  response: 612F1056258BA04A9

@@ -1,5 +1,29 @@
 command_id: 6F1.612.224A2D|e=12,fc=1
 test_cases:
 - expected_values:
+    2SERIES_MAP: 89.24219
+  response: 612F105624A2D2C9F
+- expected_values:
+    2SERIES_MAP: 89.40625
+  response: 612F105624A2D2CB4
+- expected_values:
+    2SERIES_MAP: 89.42969
+  response: 612F105624A2D2CB7
+- expected_values:
+    2SERIES_MAP: 89.55469
+  response: 612F105624A2D2CC7
+- expected_values:
+    2SERIES_MAP: 89.64844
+  response: 612F105624A2D2CD3
+- expected_values:
+    2SERIES_MAP: 89.92188
+  response: 612F105624A2D2CF6
+- expected_values:
+    2SERIES_MAP: 90.09375
+  response: 612F105624A2D2D0C
+- expected_values:
+    2SERIES_MAP: 91.19531
+  response: 612F105624A2D2D99
+- expected_values:
     2SERIES_MAP: 98.35156
   response: 612F105624A2D312D
