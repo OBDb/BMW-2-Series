@@ -1,0 +1,5 @@
+command_id: 6F1.612.22582F|e=12,fc=1
+test_cases:
+- expected_values:
+    2SERIES_CAT_T: 454.25
+  response: 612F10562582F1C6A
