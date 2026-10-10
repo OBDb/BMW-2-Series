@@ -1,5 +1,29 @@
 command_id: 6F1.612.225889|e=12,fc=1
 test_cases:
 - expected_values:
+    2SERIES_LAMBDA_6F1: 0.98903
+  response: 612F1056258890FD3
+- expected_values:
+    2SERIES_LAMBDA_6F1: 0.99171
+  response: 612F1056258890FDE
+- expected_values:
+    2SERIES_LAMBDA_6F1: 0.99391
+  response: 612F1056258890FE7
+- expected_values:
+    2SERIES_LAMBDA_6F1: 0.99611
+  response: 612F1056258890FF0
+- expected_values:
+    2SERIES_LAMBDA_6F1: 0.99757
+  response: 612F1056258890FF6
+- expected_values:
+    2SERIES_LAMBDA_6F1: 0.99831
+  response: 612F1056258890FF9
+- expected_values:
+    2SERIES_LAMBDA_6F1: 1.00685
+  response: 612F105625889101C
+- expected_values:
+    2SERIES_LAMBDA_6F1: 1.36257
+  response: 612F10562588915CD
+- expected_values:
     2SERIES_LAMBDA_6F1: null
   response: 612F105625889FFFF

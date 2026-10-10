@@ -1,0 +1,23 @@
+command_id: 6F1.630.22DB99|e=30,fc=1
+test_cases:
+- expected_values:
+    2SERIES_STEER_TQ: 0.21875
+  response: 630F10662DB99001C00
+- expected_values:
+    2SERIES_STEER_TQ: 1.22656
+  response: 630F10662DB99009D00
+- expected_values:
+    2SERIES_STEER_TQ: -2.875
+  response: 630F10662DB99FE9000
+- expected_values:
+    2SERIES_STEER_TQ: -2.46875
+  response: 630F10662DB99FEC400
+- expected_values:
+    2SERIES_STEER_TQ: -0.14844
+  response: 630F10662DB99FFED00
+- expected_values:
+    2SERIES_STEER_TQ: -0.125
+  response: 630F10662DB99FFF000
+- expected_values:
+    2SERIES_STEER_TQ: -0.01562
+  response: 630F10662DB99FFFE00

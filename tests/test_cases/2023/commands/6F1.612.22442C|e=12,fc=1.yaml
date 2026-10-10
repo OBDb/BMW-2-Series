@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     2SERIES_OIL_LEVEL: 42
   response: 612F10462442C2A
+- expected_values:
+    2SERIES_OIL_LEVEL: 43
+  response: 612F10462442C2B
+- expected_values:
+    2SERIES_OIL_LEVEL: 47
+  response: 612F10462442C2F
+- expected_values:
+    2SERIES_OIL_LEVEL: 49
+  response: 612F10462442C31
+- expected_values:
+    2SERIES_OIL_LEVEL: 50
+  response: 612F10462442C32
+- expected_values:
+    2SERIES_OIL_LEVEL: 51
+  response: 612F10462442C33

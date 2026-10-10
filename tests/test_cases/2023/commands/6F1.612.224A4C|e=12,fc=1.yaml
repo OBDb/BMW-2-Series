@@ -1,5 +1,29 @@
 command_id: 6F1.612.224A4C|e=12,fc=1
 test_cases:
 - expected_values:
+    2SERIES_IGN_TIMING_3: 1.3
+  response: 612F105624A4C000D
+- expected_values:
+    2SERIES_IGN_TIMING_3: 1.5
+  response: 612F105624A4C000F
+- expected_values:
+    2SERIES_IGN_TIMING_3: 9
+  response: 612F105624A4C005A
+- expected_values:
+    2SERIES_IGN_TIMING_3: 12.5
+  response: 612F105624A4C007D
+- expected_values:
+    2SERIES_IGN_TIMING_3: 12.9
+  response: 612F105624A4C0081
+- expected_values:
+    2SERIES_IGN_TIMING_3: 22.5
+  response: 612F105624A4C00E1
+- expected_values:
+    2SERIES_IGN_TIMING_3: -13.1
+  response: 612F105624A4CFF7D
+- expected_values:
     2SERIES_IGN_TIMING_3: -9
   response: 612F105624A4CFFA6
+- expected_values:
+    2SERIES_IGN_TIMING_3: -1.5
+  response: 612F105624A4CFFF1

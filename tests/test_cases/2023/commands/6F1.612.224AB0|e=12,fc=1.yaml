@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     2SERIES_BOOST_P_SET: 98.42188
   response: 612F105624AB0626C
+- expected_values:
+    2SERIES_BOOST_P_SET: 98.625
+  response: 612F105624AB062A0
+- expected_values:
+    2SERIES_BOOST_P_SET: 98.63672
+  response: 612F105624AB062A3
+- expected_values:
+    2SERIES_BOOST_P_SET: 98.64844
+  response: 612F105624AB062A6
+- expected_values:
+    2SERIES_BOOST_P_SET: 98.66016
+  response: 612F105624AB062A9

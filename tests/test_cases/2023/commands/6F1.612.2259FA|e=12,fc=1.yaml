@@ -1,5 +1,23 @@
 command_id: 6F1.612.2259FA|e=12,fc=1
 test_cases:
 - expected_values:
+    2SERIES_IGN_ANGLE: 0.75
+  response: 612F1046259FA01
+- expected_values:
+    2SERIES_IGN_ANGLE: 1.5
+  response: 612F1046259FA02
+- expected_values:
+    2SERIES_IGN_ANGLE: 2.25
+  response: 612F1046259FA03
+- expected_values:
+    2SERIES_IGN_ANGLE: 8.25
+  response: 612F1046259FA0B
+- expected_values:
+    2SERIES_IGN_ANGLE: 18.75
+  response: 612F1046259FA19
+- expected_values:
+    2SERIES_IGN_ANGLE: -19.5
+  response: 612F1046259FAE6
+- expected_values:
     2SERIES_IGN_ANGLE: -9
   response: 612F1046259FAF4

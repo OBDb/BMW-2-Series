@@ -4,3 +4,27 @@ test_cases:
     2SERIES_AC_COMP_PWM: 0
     2SERIES_AC_COMP_STAT: 0
   response: 640F10662D906000000
+- expected_values:
+    2SERIES_AC_COMP_PWM: 44
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D90600012C
+- expected_values:
+    2SERIES_AC_COMP_PWM: 45
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D90600012D
+- expected_values:
+    2SERIES_AC_COMP_PWM: 47
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D90600012F
+- expected_values:
+    2SERIES_AC_COMP_PWM: 48
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D906000130
+- expected_values:
+    2SERIES_AC_COMP_PWM: 51
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D906000133
+- expected_values:
+    2SERIES_AC_COMP_PWM: 54
+    2SERIES_AC_COMP_STAT: 1
+  response: 640F10662D906000136

@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     2SERIES_LOAD: 15
   response: 612F10462581314
+- expected_values:
+    2SERIES_LOAD: 21.75
+  response: 612F1046258131D
+- expected_values:
+    2SERIES_LOAD: 22.5
+  response: 612F1046258131E
+- expected_values:
+    2SERIES_LOAD: 24
+  response: 612F10462581320
+- expected_values:
+    2SERIES_LOAD: 24.75
+  response: 612F10462581321
+- expected_values:
+    2SERIES_LOAD: 27
+  response: 612F10462581324
+- expected_values:
+    2SERIES_LOAD: 30
+  response: 612F10462581328
+- expected_values:
+    2SERIES_LOAD: 49.5
+  response: 612F10462581342
