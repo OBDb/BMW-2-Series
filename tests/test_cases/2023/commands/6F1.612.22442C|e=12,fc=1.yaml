@@ -1,0 +1,5 @@
+command_id: 6F1.612.22442C|e=12,fc=1
+test_cases:
+- expected_values:
+    2SERIES_OIL_LEVEL: 42
+  response: 612F10462442C2A

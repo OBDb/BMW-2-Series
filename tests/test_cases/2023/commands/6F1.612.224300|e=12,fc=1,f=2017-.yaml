@@ -4,8 +4,8 @@ test_cases:
     2SERIES_ET: 35.55
   response: 612F1056243000C0F
 - expected_values:
-    2SERIES_ET: 92.65
-  response: 612F1056243000E4A
+    2SERIES_ET: 91.75
+  response: 612F1056243000E41
 - expected_values:
     2SERIES_ET: 96.35
   response: 612F1056243000E6F

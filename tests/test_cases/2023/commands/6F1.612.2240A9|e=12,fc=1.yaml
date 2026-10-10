@@ -1,0 +1,9 @@
+command_id: 6F1.612.2240A9|e=12,fc=1
+test_cases:
+- expected_values:
+    2SERIES_BAT_CAP: 70
+    2SERIES_ORIGINAL_BAT_CAP: 70
+  response: |-
+    612F1100C6240A94602
+    612F121460250CE02BC
+    612F12200FFFFFFFFFF
