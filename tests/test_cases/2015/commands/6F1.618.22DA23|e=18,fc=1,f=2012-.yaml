@@ -12,6 +12,11 @@ test_cases:
     618F1100762DA230000
     618F121404CFFFFFFFF
 - expected_values:
+    2SERIES_ODO_LOWRES: 203424
+  response: |-
+    618F1100762DA230000
+    618F1216354FFFFFFFF
+- expected_values:
     2SERIES_ODO_LOWRES: 203512
   response: |-
     618F1100762DA230000
@@ -21,6 +26,11 @@ test_cases:
   response: |-
     618F1100762DA230000
     618F1216360FFFFFFFF
+- expected_values:
+    2SERIES_ODO_LOWRES: 212752
+  response: |-
+    618F1100762DA230000
+    618F12167E2FFFFFFFF
 - expected_values:
     2SERIES_ODO_LOWRES: null
   response: |-
