@@ -5,7 +5,7 @@ test_cases:
   response: 660F10562D1125E5E
 - expected_values:
     2SERIES_AAT: 37
-  response: 660F10562D1129A9B
+  response: 660F10562D1129AB4
 - expected_values:
-    2SERIES_AAT: 37
-  response: 660F10562D1129AA8
+    2SERIES_AAT: 38
+  response: 660F10562D1129C9D
