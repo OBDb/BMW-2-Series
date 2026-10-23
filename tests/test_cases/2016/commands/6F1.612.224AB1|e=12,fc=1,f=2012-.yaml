@@ -17,5 +17,5 @@ test_cases:
     2SERIES_VSS2: 17.91
   response: 612F105624AB106FF
 - expected_values:
-    2SERIES_VSS2: 174.1
-  response: 612F105624AB14402
+    2SERIES_VSS2: 179.53
+  response: 612F105624AB14621
