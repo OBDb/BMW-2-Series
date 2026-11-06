@@ -1,0 +1,11 @@
+command_id: 6F1.612.224A4D|e=12,fc=1
+test_cases:
+- expected_values:
+    2SERIES_IGN_TIMING_4: -22.3
+  response: 612F105624A4DFF21
+- expected_values:
+    2SERIES_IGN_TIMING_4: -8
+  response: 612F105624A4DFFB0
+- expected_values:
+    2SERIES_IGN_TIMING_4: -6.5
+  response: 612F105624A4DFFBF
