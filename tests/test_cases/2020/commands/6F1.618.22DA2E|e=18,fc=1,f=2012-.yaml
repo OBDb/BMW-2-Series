@@ -11,4 +11,5 @@ test_cases:
   response: 618F10562DA2E000A
 - expected_values:
     2SERIES_GEAR: DRIVE
+    2SERIES_GEAR_SHIFT: DRIVE
   response: 618F10562DA2E1003
