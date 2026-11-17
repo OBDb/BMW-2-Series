@@ -1,9 +1,9 @@
 command_id: 6F1.618.22DA37|e=18,fc=1,f=2012-
 test_cases:
 - expected_values:
-    2SERIES_TIME_D: 2
-    2SERIES_TIME_M: 253
-    2SERIES_TIME_S: 239
+    2SERIES_TIME_D: 49282319
+    2SERIES_TIME_M: 39611
+    2SERIES_TIME_S: 32578
   response: |-
     618F1100F62DA3702EF
     618F121FD0F00007F42
